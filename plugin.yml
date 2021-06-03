@@ -1,0 +1,13 @@
+#
+# / — — — — — — — — — — — — — — — — — — — \
+# | Плагин создал MixMouse                |
+# | VK - https://vk.com/pppppp.tptptptp   |
+# \ — — — — — — — — — — — — — — — — — — — /
+#
+
+name: MixPassport
+main: me.m1xmouse.MixPassport.Main
+version: 1.1
+author: MixMouse
+commands:
+  passport:
